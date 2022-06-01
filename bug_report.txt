@@ -1,1 +1,13 @@
-
+Bug_id: 38
+Title: Widgets invisible after device reboot
+Severity: Major
+Priority: Middle
+Environment: Xiaomi MI 8, Android 10, MIUI Global 12.0.3 Stable, 5x5
+Precondition: Install app, clear data
+STR: 1. Open application
+     2. Add few widgets to new page
+     3. Reboot device
+     4. Check the added widgets
+AR: Previous added widgets invisible
+ER: Previous added widgets visible
+Attachments: https://drive.google.com/file/d/1jq7keEDGsyebNwEOkJlL7XQxurlR_6oP/view?usp=sharing 
